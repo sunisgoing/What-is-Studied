@@ -112,3 +112,15 @@ def test():
     a=30
 test()
 print(a)
+
+
+
+
+#字典
+Dictionary的key必须加‘’
+Dic={'one':1,'two':2}
+print(Dic)
+#%%
+Dic['eleven']=11
+print(Dic)
+Dic['one']
