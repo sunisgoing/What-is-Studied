@@ -1,0 +1,2 @@
+# File Classification System
+# No external dependencies required - uses Python standard library only
