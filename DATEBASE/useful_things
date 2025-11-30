@@ -1,0 +1,3 @@
+#首先在bench中设置advanced,写入OPT_LOCAL_INFILE=1
+SHOW GLOBAL VARIABLES LIKE'local_infile';
+SET GLOBAL local_infile=1;
